@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1611088466989.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "1351300974",
+    "id" : "F4CBBD73",
+    "lastKnownWriteTime" : 1611088760,
+    "last_content_update" : 1611088760969,
+    "path" : "C:/Users/Hicham/Desktop/tspp/src/greedy_2op.cpp",
+    "project_path" : "src/greedy_2op.cpp",
+    "properties" : {
+        "cursorPosition" : "10,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
